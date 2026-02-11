@@ -11,4 +11,4 @@ FAQ Chatbot is a machine learning based chatbot trained on FAQ [dataset](https:/
   - NLPAug
 
 - Results:
-![](https://github.com/Aaryanverma/faq-chatbot/blob/main/Screenshot%202021-11-19%20011309.png)
+![](https://github.com/sovanshit/Chtabot/blob/main/faq-chatbot-main/Prediction.png)
